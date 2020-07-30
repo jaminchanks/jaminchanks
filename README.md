@@ -1,5 +1,5 @@
 ### Hi there 👋
-#🌱 I’m currently learning ...
+<!--🌱 I’m currently learning ... -->
 
 💬 I am a Code man~ Not a Cool man~
 
